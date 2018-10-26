@@ -28,6 +28,11 @@ class EventManagerController extends Controller
 					'title' => 'MRPL FEST 2019',
 					'city' => 'Mariupol',
 					'category' => 'music'
+				],
+				[
+					'title' => 'Twenty One Pilots сoncert',
+					'city' => 'Kiev',
+					'category' => 'music'
 				]
 			];
 
