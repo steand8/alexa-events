@@ -30,7 +30,7 @@ class EventManagerController extends Controller
 					'category' => 'music'
 				],
 				[
-					'title' => 'Twenty One Pilots сoncert',
+					'title' => 'Twenty One Pilots concert',
 					'city' => 'Kiev',
 					'category' => 'music'
 				]
